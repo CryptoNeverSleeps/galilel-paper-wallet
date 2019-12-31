@@ -10,8 +10,6 @@
 // Coin
 var configCoinName = "Galilel";
 var configCoinDomain = "https://galilel.org";
-var configMetaAutor = "Maik Broemme";
-var configMetaSiteName = "Galilel Core";
 var configAddressPrivate = 0xc1;
 var configAddressPublic = 0x44;
 var coinutil = 31;
